@@ -7,5 +7,5 @@ command line spell checker (cause I'm cool like that)
 `npm install`  
 `node spellchecker.js someword`  
 
-- To run tests\s\s  
+- To run tests  
 `npm test`
